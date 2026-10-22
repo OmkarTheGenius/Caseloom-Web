@@ -1,0 +1,25 @@
+# Caseloom
+
+> Caseloom is a student-built concept storefront exploring print-on-demand personalised phone cases. It is a digital-commerce project, not currently an operational online shop.
+
+## Website
+- https://omkarthegenius.github.io/Caseloom-Web/
+
+## What the page demonstrates
+- Six original illustrative case-design concepts.
+- A visual customizer that changes the design, base colour, displayed name, and indicative case price.
+- Planned case prices of ₹499, ₹699, and ₹799. These are illustrative, not confirmed retail prices.
+- A concept brand story and FAQs describing the proposed print-on-demand model.
+
+## Current limitations
+- Ordering and payment are not live.
+- The launch-list form does not send or store email addresses.
+- Artwork uploads are not implemented.
+- A print partner, fulfilment timeline, device compatibility, and final return policy have not been confirmed.
+- Illustrations are previews and do not validate precise fit for a phone model.
+
+## Contact and location
+- The page contains placeholder contact details. Do not treat those details as verified customer-support channels or a verified business address.
+
+## Status
+This file is an experimental machine-readable summary for AI-oriented content discovery. It does not guarantee crawling, citation, ranking, or visibility in generative search systems.
