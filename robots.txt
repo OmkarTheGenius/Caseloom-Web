@@ -1,7 +1,4 @@
 User-agent: *
 Allow: /
 
-# Project-site path; GitHub Pages project sites share the account domain.
-# This file is included for the project demonstration; repository site paths can
-# limit how root-level crawler directives are applied.
 Sitemap: https://omkarthegenius.github.io/Caseloom-Web/sitemap.xml
