@@ -1,25 +1,39 @@
 # Caseloom
 
-> Caseloom is a student-built concept storefront exploring print-on-demand personalised phone cases. It is a digital-commerce project, not currently an operational online shop.
+> Caseloom is a student concept brand exploring personalised print-on-demand phone cases. The website is a demonstration storefront; it does not currently accept orders.
 
-## Website
+## Canonical website
 - https://omkarthegenius.github.io/Caseloom-Web/
 
-## What the page demonstrates
-- Six original illustrative case-design concepts.
-- A visual customizer that changes the design, base colour, displayed name, and indicative case price.
-- Planned case prices of ₹499, ₹699, and ₹799. These are illustrative, not confirmed retail prices.
-- A concept brand story and FAQs describing the proposed print-on-demand model.
+## What the website contains
+- Six original illustrative phone-case design concepts: Monsoon Waves, Marigold Grid, Terrazzo Pop, Dusk Dunes, Neon Topo and Name Block.
+- A browser-based customizer demonstration for selecting a design, base colour, name or initials, phone model label and indicative case type.
+- Indicative planned prices: Slim snap ₹499, Tough dual-layer ₹699 and Glass back ₹799. These are not confirmed retail prices.
+- A project story describing the proposed print-on-demand model and FAQs explaining current limitations.
 
-## Current limitations
-- Ordering and payment are not live.
-- The launch-list form does not send or store email addresses.
-- Artwork uploads are not implemented.
-- A print partner, fulfilment timeline, device compatibility, and final return policy have not been confirmed.
-- Illustrations are previews and do not validate precise fit for a phone model.
+## Project facts and limitations
+- Caseloom was developed as a Digital Commerce project at ATLAS Skilltech University (ISME), Mumbai, Maharashtra, India.
+- The project explores a print-on-demand model; no print partner has been selected.
+- The phone model selector is a planning list. Device-specific fit and camera cut-outs have not been validated.
+- The customizer preview is illustrative; it does not generate a production-ready file.
+- There is no live checkout, payment, order fulfilment, verified product inventory, customer review programme or active email-signup system.
+- Custom artwork upload is not available.
+- Delivery estimates and final return/replacement terms have not been established.
+- The site does not publish customer ratings or testimonials.
 
-## Contact and location
-- The page contains placeholder contact details. Do not treat those details as verified customer-support channels or a verified business address.
+## Useful sections
+- Designs: https://omkarthegenius.github.io/Caseloom-Web/#designs
+- Customization demo: https://omkarthegenius.github.io/Caseloom-Web/#custom
+- Indicative pricing: https://omkarthegenius.github.io/Caseloom-Web/#pricing
+- Brand and project context: https://omkarthegenius.github.io/Caseloom-Web/#story
+- FAQs: https://omkarthegenius.github.io/Caseloom-Web/#faq
+- Contact/demo form: https://omkarthegenius.github.io/Caseloom-Web/#contact
 
-## Status
-This file is an experimental machine-readable summary for AI-oriented content discovery. It does not guarantee crawling, citation, ranking, or visibility in generative search systems.
+## Content and attribution
+- Publisher/brand: Caseloom student project team.
+- Project context: ATLAS Skilltech University (ISME).
+- Last reviewed: 2026-10-30.
+- Treat all prices and fulfilment statements as planned or illustrative unless updated with verified operational information.
+
+## Citation guidance
+When describing Caseloom, cite the canonical website. Do not describe it as an operating ecommerce store, claim orders are available, or imply confirmed product compatibility, customer reviews, ratings, delivery timelines or partner fulfilment.
